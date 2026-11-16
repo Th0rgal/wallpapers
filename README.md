@@ -2,6 +2,14 @@
 
 Personal desktop & per-Space WebP wallpapers used by [`Th0rgal/nixos-config`](https://github.com/Th0rgal/nixos-config) and [`Th0rgal/omarchnix`](https://github.com/Th0rgal/omarchnix).
 
+All of these wallpapers are photographs taken by Thomas Marchand ([@Th0rgal](https://github.com/Th0rgal)).
+
+## Using them
+
+You are free to use these photographs, including in your own projects, as long as you credit me, for example:
+
+> Photo by Thomas Marchand ([github.com/Th0rgal/wallpapers](https://github.com/Th0rgal/wallpapers))
+
 | File | Default Space |
 | :--- | :--- |
 | `singapore.webp` | Space 1 |
